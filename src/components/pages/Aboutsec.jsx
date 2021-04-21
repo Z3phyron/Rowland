@@ -20,8 +20,7 @@ const Aboutsec = () => {
                 A Front End Web Developer based in Lagos, Nigeria. I have over one year of experience in writing maintainable and functional code, following best practices, and building websites.
             </p>
             <p>
-                i'm a software Enginerring student at NIIT, where i plan on studying more to help build my career.  At my leisure time I research, read comics, and learn new technologies, as well as latest development in tech.
-            </p>
+                i'm a software Enginerring student at NIIT, where i plan on studying more to help build my career.</p>
             <p>                 
                 Adept knowledge in building robust RESTful APIs, dashboards, API Integrations. I value teamwork and respect everyone’s opinion.
             </p>
@@ -35,7 +34,8 @@ const Aboutsec = () => {
                     <li>Gsap</li>
                     <li>Bootstrap</li>
                 </ul>
-            <p> At my leisure time I research, play video games, and learn new technologies, as well as latest development in tech.</p>
+            <p> At my leisure time I research, read comics, and learn new technologies, as well as latest development in tech.
+</p>
             </div>
         </Skills>
         </div>
