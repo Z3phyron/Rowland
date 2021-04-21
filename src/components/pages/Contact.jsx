@@ -28,7 +28,7 @@ const Contact = () => {
                     </a>
                  </div>   
                 <div className="social-item">
-                    <a href="https://twitter.com/damain_ricketts" className="icons">
+                    <a href="https://twitter.com/damian_ricketts" className="icons">
                         <FaTwitter/>
                     </a>
                  </div>   
