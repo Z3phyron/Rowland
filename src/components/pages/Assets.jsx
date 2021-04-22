@@ -21,7 +21,7 @@ const Assets = () => {
 
                 <div class="card">
                     <div class="types">
-                        <span>html</span>
+                        <span>React</span>
                     </div>
                    <div class="main-text">
                     <h2 class="heading">GitCall</h2>
