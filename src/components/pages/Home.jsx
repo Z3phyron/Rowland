@@ -25,7 +25,7 @@ const Home = () => {
                 </h2>
                 <h4>
                     <span className="hide">
-                    I’M A FRONTEND ENGINEER AND UI DEVELOPER
+                    A FRONTEND ENGINEER AND UI DEVELOPER
                     </span>
                 </h4>
                     
