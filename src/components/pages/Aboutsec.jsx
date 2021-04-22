@@ -43,7 +43,6 @@ const Aboutsec = () => {
 }
 
 const Skills = styled(motion.div)`
-padding: 20px 20px;
     margin-top: 10vh;
     color:#00f0b5;
     .wrapper {
