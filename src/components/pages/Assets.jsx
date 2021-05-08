@@ -11,7 +11,7 @@ const Assets = () => {
         <motion.div exit="exit" variants={pageAnimation} initial="hidden" animate="show">
              <Wrapper>
             <div className="header">
-                <h3>2. Assets()</h3>
+                <h3>3. Assets()</h3>
             </div>
                 <p>
                     Here are some of my latest works
