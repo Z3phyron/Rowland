@@ -92,6 +92,21 @@ const Assets = () => {
                             <FaLink />
                         </a>
                     </div>
+                    </div>
+                    
+                <div class="card">
+                    <div class="types">
+                        <span>React</span>
+                    </div>
+                   <div class="main-text">
+                    <h2 class="heading">T-Graphics</h2>
+                    <p class="dsc">An ecormmerce site with Commerce js , Firebase and Stripe js</p>
+                   </div>
+                    <div class="btn-grp">
+                        <a href="https://t-graphics.vercel.app/" class="cta link">
+                            <FaLink />
+                        </a>
+                    </div>
                 </div>
 
             </WorkBox>
