@@ -84,11 +84,11 @@ const Assets = () => {
                         <span>Html</span>
                     </div>
                    <div class="main-text">
-                    <h2 class="heading">Floop</h2>
-                    <p class="dsc">An ecormmerce site's Landing page</p>
+                    <h2 class="heading">Resume</h2>
+                    <p class="dsc">my resume</p>
                    </div>
                     <div class="btn-grp">
-                        <a href="https://floop.vercel.app/" class="cta link">
+                        <a href="https://stage-2-task.vercel.app/" class="cta link">
                             <FaLink />
                         </a>
                     </div>
